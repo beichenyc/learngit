@@ -2,3 +2,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 haha zheshi yige bucuo de xuanze !
 好的，很不错
+Git has a mutable indes called stage!
