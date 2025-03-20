@@ -1,3 +1,5 @@
 this is a first git version control
 Git is free software.
 Git is very col!
+
+这是我编辑器中，去添加的内容！
