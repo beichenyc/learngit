@@ -6,3 +6,5 @@ Git is very col!
 
 这是new content！
 这是 dev 分支添加的！
+
+this is feature1 add new line!
