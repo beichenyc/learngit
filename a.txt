@@ -10,3 +10,5 @@ Git is very col!
 this is feature1 add new line!
 
 this is main add new line!
+
+this is feature 1 new line!
